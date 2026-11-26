@@ -12,7 +12,7 @@
 
 
 ### 📂 DIRECTORY // PYTHON TUIs (PyPI)
-* `L [TUI]` **[asma-tui](https://github.com/postsonde/asma-tui/)** [PyPi](https://https://pypi.org/project/asma-tui/) — Learn the 99 Qualities of Allah (`$ pipx install asma-tui`)
+* `L [TUI]` **[asma-tui](https://github.com/postsonde/asma-tui/)** [PyPi](https://https://pypi.org/project/asma-tui/) — Learn the 99 Properties of Allah (`$ pipx install asma-tui`)
 * `L [TUI]` **[salah-tui](https://github.com/postsonde/salah-tui)** [PyPi](https://pypi.org/project/salah-tui/) — Islamic prayer times & sun tracking (`$ pipx install salah-tui`)
 * `L [TUI]` **[quran-tui](https://github.com/postsonde/quran-tui)** [PyPi](https://pypi.org/project/quran-tui/) — Holy Quran study & translations (`$ pipx install quran-tui`)
 * `L [TUI]` **[hijri-tui](https://github.com/postsonde/hijri-tui)** [PyPi](https://pypi.org/project/hijri-tui/) — Hijri calendar & lunar phases (`$ pipx install hijri-tui`)
