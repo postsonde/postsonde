@@ -12,12 +12,12 @@
 
 
 ### 📂 DIRECTORY // PYTHON TUIs (PyPI)
-* `L [TUI]` **[asma-tui](https://github.com/postsonde/asma-tui/)** [PyPi](https://https://pypi.org/project/asma-tui/) — Learn the 99 Names of Allah <</br>(`$ pipx install asma-tui`)
-* `L [TUI]` **[salah-tui](https://github.com/postsonde/salah-tui)** [PyPi](https://pypi.org/project/salah-tui/) — Islamic prayer times & sun tracking </br> (`$ pipx install salah-tui`)
-* `L [TUI]` **[quran-tui](https://github.com/postsonde/quran-tui)** [PyPi](https://pypi.org/project/quran-tui/) — Holy Quran study & translations </br>(`$ pipx install quran-tui`)
-* `L [TUI]` **[hijri-tui](https://github.com/postsonde/hijri-tui)** [PyPi](https://pypi.org/project/hijri-tui/) — Hijri calendar & lunar phases </br>(`$ pipx install hijri-tui`)
-* `L [TUI]` **[zazen-tui](https://github.com/postsonde/zazen-tui)** [PyPi](https://pypi.org/project/zazen-tui/) — Minimalist Zazen meditation TUI </br>(`$ pipx install zazen-tui`)
-* `L [TUI]` **[goabase-tui](https://github.com/postsonde/goabase-tui)** [PyPi](https://pypi.org/project/goabase-tui/) — Goa & Psytrance parties browser </br>(`$ pipx install goabase-tui`)
+* `L [TUI]` **[asma-tui](https://github.com/postsonde/asma-tui/)** [PyPi](https://https://pypi.org/project/asma-tui/) — Learn the 99 Names of Allah (`$ pipx install asma-tui`)
+* `L [TUI]` **[salah-tui](https://github.com/postsonde/salah-tui)** [PyPi](https://pypi.org/project/salah-tui/) — Islamic prayer times & sun tracking (`$ pipx install salah-tui`)
+* `L [TUI]` **[quran-tui](https://github.com/postsonde/quran-tui)** [PyPi](https://pypi.org/project/quran-tui/) — Holy Quran study & translations (`$ pipx install quran-tui`)
+* `L [TUI]` **[hijri-tui](https://github.com/postsonde/hijri-tui)** [PyPi](https://pypi.org/project/hijri-tui/) — Hijri calendar & lunar phases (`$ pipx install hijri-tui`)
+* `L [TUI]` **[zazen-tui](https://github.com/postsonde/zazen-tui)** [PyPi](https://pypi.org/project/zazen-tui/) — Minimalist Zazen meditation TUI (`$ pipx install zazen-tui`)
+* `L [TUI]` **[goabase-tui](https://github.com/postsonde/goabase-tui)** [PyPi](https://pypi.org/project/goabase-tui/) — Goa & Psytrance parties browser (`$ pipx install goabase-tui`)
 
 ---
 
@@ -36,4 +36,4 @@
 
 ---
 
-`[Status: Active | Host: postsonde | Web: [postsonde.github.io](https://postsonde.github.io) | License: GNU GPLv3 | Protocol: Simulated Gemini/Web Hybrid]`
+`[Status: Active | Host: postsonde | Web: postsonde.github.io | License: GNU GPLv3 | Protocol: Simulated Gemini/Web Hybrid]`
